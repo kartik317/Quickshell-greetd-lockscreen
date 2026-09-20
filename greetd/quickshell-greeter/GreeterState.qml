@@ -7,7 +7,7 @@ Singleton {
     id: root
 
     // ── change this to your actual username ──
-    readonly property string username: "no name :("
+    readonly property string username: "NoName:("
     // The session to launch on success. This should be your REAL
     // Hyprland session, not the greeter's throwaway one.
     // Use start-hyprland, not the Hyprland binary directly - since
